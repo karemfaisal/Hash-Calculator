@@ -1,4 +1,4 @@
-﻿#KAFHASH : A Tool To Hash Files and Compare it with the Original File's HASH
+﻿#Hash Calculator --KAF : A Tool To Hash Files and Compare it with the Original File's HASH
 #Created By Karem Ali 
 #It 's Open Source For Every One : Written in PowerShell V2 To be Compatiable With Win 7 and later
 #it's a Gift to my Friend Sherif Fathy 
